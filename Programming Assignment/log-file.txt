@@ -1,8 +1,0 @@
-[*] LOG RECORD: [2024-12-17 11:17:37] Client IP: 127.0.0.1 | Operation: [1] Count Words | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:38] Client IP: 127.0.0.1 | Operation: [2] Count Vowels | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:39] Client IP: 127.0.0.1 | Operation: [3] Count Special Chars | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:41] Client IP: 127.0.0.1 | Operation: [3] Count Special Chars | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:44] Client IP: 127.0.0.1 | Operation: [1] Count Words | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:45] Client IP: 127.0.0.1 | Operation: [2] Count Vowels | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:47] Client IP: 127.0.0.1 | Operation: [3] Count Special Chars | Status: Succeed
-[*] LOG RECORD: [2024-12-17 11:17:47] Client IP: 127.0.0.1 | Operation: [2] Count Vowels | Status: Succeed
