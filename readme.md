@@ -1,7 +1,6 @@
 # TCP Concurrent Server 👩‍👩‍👦‍👦
 
 [![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)  
-
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)  
 ![Language](https://img.shields.io/badge/language-C-blue)
 
