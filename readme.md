@@ -6,7 +6,8 @@
 
 
 ## 🔍 Preview
-![Preview](https://github.com/YourGitHubUsername/SteganographyTool/assets/preview-image.png)
+![Network_Github](https://github.com/user-attachments/assets/207f0cab-c5bf-47c4-b701-d256df9284b3)
+
 
 ## ⚙️ Requirements
 To use this tool, you need the following:
