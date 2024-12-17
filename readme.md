@@ -21,6 +21,7 @@ This **Multi-Client TCP Server** allows clients to connect to a server and perfo
 - **Count Vowels** (a, e, i, o, u) in a string.
 - **Count Special Characters** (non-alphanumeric characters).
 - **Find the Longest Word** in a string.
+- **Find repeated Words** in a string.
 - **Log Operations** with timestamps and client information.
 
 ### Key Features:
