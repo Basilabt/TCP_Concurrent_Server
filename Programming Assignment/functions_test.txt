@@ -1,0 +1,17 @@
+   char *name = "My Name Is Basil AbuTaleb !";
+
+    int r = countVowels(name);
+    printf("Number Of Vowels = %d\n", r);
+
+    r = countNumberOfWords(name);
+    printf("Number Of Words = %d\n", r);
+
+    r = countSpecialChars(name);
+    printf("Number Of Special Characters = %d\n", r);
+
+    char *w = findLongestWord(name);
+
+    if (w != NULL) {
+        printf("Longest Word = %s\n", w);
+        free(w);  
+    }
