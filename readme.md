@@ -39,7 +39,7 @@ git clone https://github.com/Basilabt/TCP_Concurrent_Server
  - Compile & Run 
 ```
 gcc server.c -o server 
-./server [Ip Address] [Port Number]
+./server [Ip Address] [Port Number] [In.txt]
 ```
 
 
